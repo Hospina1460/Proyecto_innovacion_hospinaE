@@ -22,8 +22,7 @@
 
 <h1>Equipo
   
-###
-Edward Hospina - Desarrollo y diseño del proyecto  
+### Edward Hospina - Desarrollo y diseño del proyecto  
 Contacto: [edward.hospina@up.ac.pa]
 LinkedIn: [https://www.linkedin.com/in/edward-hospina-b6aa32a6]
 GitHub: [https://github.com/Hospina1460]
