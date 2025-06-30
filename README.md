@@ -19,6 +19,7 @@
 - Plataforma en la nube: Análisis de datos con inteligencia artificial para predecir fallas antes de que ocurran.
 - Aplicación móvil: Herramienta para que los ciudadanos reporten problemas rápidamente y colaboren en la gestión del agua.
 - Capacitación comunitaria: Formación para comunidades y personal del IDAAN en el uso y mantenimiento del sistema, asegurando su sostenibilidad.
+- Infraestructuras modulares para zonas alejadas o rurales. Sistemas de distribución y almacenamientos diseñados y prefabricados para adaptarse rápidamente a las necesidades de una         comunidad. Ejemplo de ello podrían ser: tanques de almacenamientos modulares, redes de tuberías con conexiones estandarizadas y sistemas de potabilización. 
 
 <h1>Equipo
   
